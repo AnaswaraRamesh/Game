@@ -1,1 +1,2 @@
-# Game
+# Geologist
+Geologist Project
